@@ -17,7 +17,7 @@
 
 ## Example
 ```
-import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'af-product-card';
+import {ProductCard, ProductImage, ProductTitle, ProductButtons} from 'afbr-product-card';
 ```
 
 ```
