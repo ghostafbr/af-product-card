@@ -8,7 +8,6 @@ const {Provider} = ProductContext;
 
 export interface Props {
     product: Product;
-    // children?: ReactElement | ReactElement[];
     children: (args: ProductCartHandlers) => JSX.Element;
     className?: string;
     style?: CSSProperties;
